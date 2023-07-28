@@ -1,6 +1,6 @@
 
 .bg-img1 {
-    background-image: url(/imgs/img1.jpeg);
+    background-image: url(./imgs/img1.jpeg);
     background-color: #000;
     background-size: cover;
     height: 80vh;
