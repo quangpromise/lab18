@@ -1,0 +1,29 @@
+
+.bg-img1 {
+    background-image: url(/imgs/img1.jpeg);
+    background-color: #000;
+    background-size: cover;
+    height: 80vh;
+}
+.bg-img2 {
+    background-image: url(./imgs/img2.jpeg);
+    background-color: #000;
+    background-size: cover;
+    height: 80vh;
+}
+
+.bg-img3 {
+    background-image: url(./imgs/img3.jpeg);
+    background-color: #000;
+    background-size: cover;
+    height: 80vh;
+}
+/* .carousel-indicators {
+
+    bottom: 80px;
+}
+.carousel-caption {
+
+    bottom: 80px;
+} */
+
